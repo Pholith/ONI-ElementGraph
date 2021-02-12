@@ -1,0 +1,1261 @@
+[
+    {
+        "input": [
+            {
+                "id":"Algae",
+                "mass":"550"
+            }
+        ],
+        "output": [
+            {
+                "id":"Oxygen",
+                "mass":"500"
+            }
+        ]
+    },
+    {
+        "input": [
+            {
+                "id":"ToxicSand",
+                "mass":"1000"
+            }
+        ],
+        "output": [
+            {
+                "id":"ContaminatedOxygen",
+                "mass":"660"
+            }
+        ]
+    },
+    {
+        "input": [
+            {
+                "id":"Algae",
+                "mass":"30"
+            },
+            {
+                "id":"Water",
+                "mass":"300"
+            },
+            {
+                "id":"CarbonDioxide",
+                "mass":"0.3"
+            }
+        ],
+        "output": [
+            {
+                "id":"Oxygen",
+                "mass":"40"
+            },
+            {
+                "id":"DirtyWater",
+                "mass":"290.33"
+            }
+        ]
+    },
+    {
+        "input": [
+            {
+                "id":"Sand",
+                "mass":"133.33"
+            },
+            {
+                "id":"Regolith",
+                "mass":"133.33"
+            },            {
+                "id":"ContaminatedOxygen",
+                "mass":"100"
+            }
+        ],
+        "output": [
+            {
+                "id":"Clay",
+                "mass":"143.33"
+            },
+            {
+                "id":"Oxygen",
+                "mass":"90"
+            }
+        ]
+    },
+    {
+        "input": [
+            {
+                "id":"Water",
+                "mass":"1000"
+            },
+            {
+                "id":"CarbonDioxide",
+                "mass":"300"
+            }
+        ],
+        "output": [
+            {
+                "id":"DirtyWater",
+                "mass":"1000"
+            }
+        ]
+    },
+    {
+        "input": [
+            {
+                "id":"Water",
+                "mass":"1000"
+            }
+        ],
+        "output": [
+            {
+                "id":"Oxygen",
+                "mass":"888"
+            },
+            {
+                "id":"Hydrogen",
+                "mass":"112"
+            }
+        ]
+    },
+    {
+        "input": [
+            {
+                "id":"Rust",
+                "mass":"750"
+            },
+            {
+                "id":"Salt",
+                "mass":"250"
+            }
+        ],
+        "output": [
+            {
+                "id":"Oxygen",
+                "mass":"750"
+            },
+            {
+                "id":"ChlorineGas",
+                "mass":"30"
+            },
+            {
+                "id":"IronOre",
+                "mass":"400"
+            }
+        ]
+    },
+    {
+        "input": [
+            {
+                "id":"Carbon",
+                "mass":"1000"
+            }
+        ],
+        "output": [
+            {
+                "id":"CarbonDioxide",
+                "mass":"20"
+            }
+        ]
+    },
+    {
+        "input": [
+            {
+                "id":"Hydrogen",
+                "mass":"100"
+            }
+        ],
+        "output": []
+    },
+    {
+        "input": [
+            {
+                "id":"Methane",
+                "mass":"90"
+            }
+        ],
+        "output": [
+            {
+                "id":"DirtyWater",
+                "mass":"67.5"
+            },
+            {
+                "id":"CarbonDioxide",
+                "mass":"22.5"
+            }
+        ]
+    },
+    {
+        "input": [
+            {
+                "id":"Petroleum",
+                "mass":"2000"
+            },
+            {
+                "id":"Ethanol",
+                "mass":"2000"
+            }
+        ],
+        "output": [
+            {
+                "id":"CarbonDioxide",
+                "mass":"500"
+            },
+            {
+                "id":"DirtyWater",
+                "mass":"750"
+            }
+        ]
+    },
+    {
+        "input": [
+            {
+                "id":"Water",
+                "mass":"5000"
+            }
+        ],
+        "output": [
+            {
+                "id":"DirtyWater",
+                "mass":"11700"
+            }
+        ]
+    },
+    {
+        "input": [
+            {
+                "id":"ToxicSand",
+                "mass":"100"
+            }
+        ],
+        "output": [
+            {
+                "id":"Dirt",
+                "mass":"100"
+            }
+        ]
+    },
+    {
+        "input": [
+            {
+                "id":"Regolith",
+                "mass":"1000"
+            },
+            {
+                "id":"Sand",
+                "mass":"1000"
+            },
+            {
+                "id":"DirtyWater",
+                "mass":"5000"
+            }
+        ],
+        "output": [
+            {
+                "id":"ToxicSand",
+                "mass":"200"
+            },
+            {
+                "id":"Water",
+                "mass":"5000"
+            }
+        ]
+    },
+    {
+        "input": [
+            {
+                "id":"SaltWater",
+                "mass":"5000"
+            }
+        ],
+        "output": [
+            {
+                "id":"Water",
+                "mass":"4650"
+            },
+            {
+                "id":"Salt",
+                "mass":"350"
+            }
+        ]
+    },
+    {
+        "input": [
+            {
+                "id":"Brine",
+                "mass":"5000"
+            }
+        ],
+        "output": [
+            {
+                "id":"Water",
+                "mass":"3500"
+            },
+            {
+                "id":"Salt",
+                "mass":"1500"
+            }
+        ]
+    },
+    {
+        "input": [
+            {
+                "id":"DirtyWater",
+                "mass":"39"
+            },
+            {
+                "id":"Dirt",
+                "mass":"65"
+            },
+            {
+                "id":"Phosphorite",
+                "mass":"26"
+            }
+        ],
+        "output": [
+            {
+                "id":"Fertilizer",
+                "mass":"10"
+            },
+            {
+                "id":"Methane",
+                "mass":"120"
+            }
+        ]
+    },
+    {
+        "input": [
+            {
+                "id":"SlimeMold",
+                "mass":"600"
+            }
+        ],
+        "output": [
+            {
+                "id":"Algae",
+                "mass":"200"
+            },
+            {
+                "id":"DirtyWater",
+                "mass":"400"
+            }
+        ]
+    },
+    {
+        "input": [
+            {
+                "id":"AluminumOre",
+                "mass":"100000"
+            }
+        ],
+        "output": [
+            {
+                "id":"Aluminum",
+                "mass":"50000"
+            },
+            {
+                "id":"Sand",
+                "mass":"100000"
+            }
+        ]
+    },
+    {
+        "input": [
+            {
+                "id":"Cobaltite",
+                "mass":"100000"
+            }
+        ],
+        "output": [
+            {
+                "id":"Cobalt",
+                "mass":"50000"
+            },
+            {
+                "id":"Sand",
+                "mass":"100000"
+            }
+        ]
+    },
+    {
+        "input": [
+            {
+                "id":"Cuprite",
+                "mass":"100000"
+            }
+        ],
+        "output": [
+            {
+                "id":"Copper",
+                "mass":"50000"
+            },
+            {
+                "id":"Sand",
+                "mass":"100000"
+            }
+        ]
+    },
+    {
+        "input": [
+            {
+                "id":"GoldAmalgam",
+                "mass":"100000"
+            }
+        ],
+        "output": [
+            {
+                "id":"Gold",
+                "mass":"50000"
+            },
+            {
+                "id":"Sand",
+                "mass":"100000"
+            }
+        ]
+    },
+    {
+        "input": [
+            {
+                "id":"IronOre",
+                "mass":"100000"
+            }
+        ],
+        "output": [
+            {
+                "id":"Iron",
+                "mass":"50000"
+            },
+            {
+                "id":"Sand",
+                "mass":"100000"
+            }
+        ]
+    },
+    {
+        "input": [
+            {
+                "id":"Wolframite",
+                "mass":"100000"
+            }
+        ],
+        "output": [
+            {
+                "id":"Tungsten",
+                "mass":"50000"
+            },
+            {
+                "id":"Sand",
+                "mass":"100000"
+            }
+        ]
+    },
+    {
+        "input": [
+            {
+                "id":"TempConductorSolid",
+                "mass":"100000"
+            }
+        ],
+        "output": [
+            {
+                "id":"Niobium",
+                "mass":"50000"
+            },
+            {
+                "id":"Sand",
+                "mass":"100000"
+            }
+        ]
+    },
+    {
+        "input": [
+            {
+                "id":"Ceramic",
+                "mass":"100000"
+            }
+        ],
+        "output": [
+            {
+                "id":"Sand",
+                "mass":"100000"
+            }
+        ]
+    },
+    {
+        "input": [
+            {
+                "id":"Fossil",
+                "mass":"100000"
+            }
+        ],
+        "output": [
+            {
+                "id":"Lime",
+                "mass":"5000"
+            }
+        ]
+    },
+    {
+        "input": [
+            {
+                "id":"Granite",
+                "mass":"100000"
+            }
+        ],
+        "output": [
+            {
+                "id":"Sand",
+                "mass":"100000"
+            }
+        ]
+    },
+    {
+        "input": [
+            {
+                "id":"IgneousRock",
+                "mass":"100000"
+            }
+        ],
+        "output": [
+            {
+                "id":"Sand",
+                "mass":"100000"
+            }
+        ]
+    },
+    {
+        "input": [
+            {
+                "id":"Obsidian",
+                "mass":"100000"
+            }
+        ],
+        "output": [
+            {
+                "id":"Sand",
+                "mass":"100000"
+            }
+        ]
+    },
+    {
+        "input": [
+            {
+                "id":"Salt",
+                "mass":"100000"
+            }
+        ],
+        "output": [
+            {
+                "id":"Sand",
+                "mass":"100000"
+            }
+        ]
+    },
+    {
+        "input": [
+            {
+                "id":"SandStone",
+                "mass":"100000"
+            }
+        ],
+        "output": [
+            {
+                "id":"Sand",
+                "mass":"100000"
+            }
+        ]
+    },
+    {
+        "input": [
+            {
+                "id":"SedimentaryRock",
+                "mass":"100000"
+            }
+        ],
+        "output": [
+            {
+                "id":"Sand",
+                "mass":"100000"
+            }
+        ]
+    },
+    {
+        "input": [
+            {
+                "id":"SuperInsulator",
+                "mass":"100000"
+            }
+        ],
+        "output": [
+            {
+                "id":"Sand",
+                "mass":"100000"
+            }
+        ]
+    },
+    {
+        "input": [
+            {
+                "id":"Carbon",
+                "mass":"125000"
+            }
+        ],
+        "output": [
+            {
+                "id":"RefinedCarbon",
+                "mass":"100000"
+            }
+        ]
+    },
+    {
+        "input": [
+            {
+                "id":"Clay",
+                "mass":"100000"
+            },
+            {
+                "id":"Carbon",
+                "mass":"25000"
+            }
+        ],
+        "output": [
+            {
+                "id":"Ceramic",
+                "mass":"100000"
+            }
+        ]
+    },
+    {
+        "input": [
+            {
+                "id":"Mud",
+                "mass":"150000"
+            }
+        ],
+        "output": [
+            {
+                "id":"Dirt",
+                "mass":"60000"
+            },
+            {
+                "id":"Water",
+                "mass":"90000"
+            }
+        ]
+    },
+    {
+        "input": [
+            {
+                "id":"Toxic",
+                "mass":"150000"
+            }
+        ],
+        "output": [
+            {
+                "id":"ToxicSand",
+                "mass":"60000"
+            },
+            {
+                "id":"DirtyWater",
+                "mass":"90000"
+            }
+        ]
+    },
+    {
+        "input": [
+            {
+                "id":"AluminumOre",
+                "mass":"100000"
+            }
+        ],
+        "output": [
+            {
+                "id":"Aluminum",
+                "mass":"100000"
+            }
+        ]
+    },
+    {
+        "input": [
+            {
+                "id":"Cobaltite",
+                "mass":"100000"
+            }
+        ],
+        "output": [
+            {
+                "id":"Cobalt",
+                "mass":"100000"
+            }
+        ]
+    },
+    {
+        "input": [
+            {
+                "id":"Cuprite",
+                "mass":"100000"
+            }
+        ],
+        "output": [
+            {
+                "id":"Copper",
+                "mass":"100000"
+            }
+        ]
+    },
+    {
+        "input": [
+            {
+                "id":"GoldAmalgam",
+                "mass":"100000"
+            }
+        ],
+        "output": [
+            {
+                "id":"Gold",
+                "mass":"100000"
+            }
+        ]
+    },
+    {
+        "input": [
+            {
+                "id":"IronOre",
+                "mass":"100000"
+            }
+        ],
+        "output": [
+            {
+                "id":"Iron",
+                "mass":"100000"
+            }
+        ]
+    },
+    {
+        "input": [
+            {
+                "id":"Wolframite",
+                "mass":"100000"
+            }
+        ],
+        "output": [
+            {
+                "id":"Tungsten",
+                "mass":"100000"
+            }
+        ]
+    },
+    {
+        "input": [
+            {
+                "id":"Iron",
+                "mass":"70000"
+            },
+            {
+                "id":"RefinedCarbon",
+                "mass":"20000"
+            },
+            {
+                "id":"Lime",
+                "mass":"10000"
+            }
+        ],
+        "output": [
+            {
+                "id":"Steel",
+                "mass":"100000"
+            }
+        ]
+    },
+    {
+        "input": [
+            {
+                "id":"Sand",
+                "mass":"100000"
+            }
+        ],
+        "output": [
+            {
+                "id":"Glass",
+                "mass":"25000"
+            }
+        ]
+    },
+    {
+        "input": [
+            {
+                "id":"CrudeOil",
+                "mass":"10000"
+            }
+        ],
+        "output": [
+            {
+                "id":"Petroleum",
+                "mass":"5000"
+            },
+            {
+                "id":"Methane",
+                "mass":"90"
+            }
+        ]
+    },
+    {
+        "input": [
+            {
+                "id":"Petroleum",
+                "mass":"833.33"
+            }
+        ],
+        "output": [
+            {
+                "id":"Polypropylene",
+                "mass":"500"
+            },
+            {
+                "id":"Steam",
+                "mass":"8.33"
+            },
+            {
+                "id":"CarbonDioxide",
+                "mass":"8.33"
+            }
+        ]
+    },
+    {
+        "input": [
+            {
+                "id":"Fullerene",
+                "mass":"1000"
+            },
+            {
+                "id":"Gold",
+                "mass":"49500"
+            },
+            {
+                "id":"Petroleum",
+                "mass":"49500"
+            }
+        ],
+        "output": [
+            {
+                "id":"SuperCoolant",
+                "mass":"100000"
+            }
+        ]
+    },
+    {
+        "input": [
+            {
+                "id":"Isoresin",
+                "mass":"15000"
+            },
+            {
+                "id":"Katairite",
+                "mass":"80000"
+            }
+        ],
+        "output": [
+            {
+                "id":"SuperInsulator",
+                "mass":"100000"
+            }
+        ]
+    },
+    {
+        "input": [
+            {
+                "id":"Isoresin",
+                "mass":"35000"
+            },
+            {
+                "id":"Petroleum",
+                "mass":"65000"
+            }
+        ],
+        "output": [
+            {
+                "id":"ViscoGel",
+                "mass":"100000"
+            }
+        ]
+    },
+    {
+        "input": [
+            {
+                "id":"Niobium",
+                "mass":"5000"
+            },
+            {
+                "id":"Tungsten",
+                "mass":"95000"
+            }
+        ],
+        "output": [
+            {
+                "id":"TempConductorSolid",
+                "mass":"100000"
+            }
+        ]
+    },
+    {
+        "input": [
+            {
+                "id":"Water",
+                "mass":"1000"
+            }
+        ],
+        "output": [
+            {
+                "id":"CrudeOil",
+                "mass":"3333.33"
+            }
+        ]
+    },
+    {
+        "input": [
+            {
+                "id":"ToxicSand",
+                "mass":"233.33"
+            }
+        ],
+        "output": [
+            {
+                "id":"Sand",
+                "mass":"116.67"
+            }
+        ]
+    },
+    {
+        "input": [
+            {
+                "id":"Dirt",
+                "mass":"233.33"
+            }
+        ],
+        "output": [
+            {
+                "id":"Carbon",
+                "mass":"233.33"
+            }
+        ]
+    },
+    {
+        "input": [
+            {
+                "id":"SlimeMold",
+                "mass":"233.33"
+            }
+        ],
+        "output": [
+            {
+                "id":"Carbon",
+                "mass":"233.33"
+            }
+        ]
+    },
+    {
+        "input": [
+            {
+                "id":"Algae",
+                "mass":"233.33"
+            }
+        ],
+        "output": [
+            {
+                "id":"Carbon",
+                "mass":"233.33"
+            }
+        ]
+    },
+    {
+        "input": [
+            {
+                "id":"Fertilizer",
+                "mass":"233.33"
+            }
+        ],
+        "output": [
+            {
+                "id":"Carbon",
+                "mass":"233.33"
+            }
+        ]
+    },
+    {
+        "input": [
+            {
+                "id":"ToxicSand",
+                "mass":"233.33"
+            }
+        ],
+        "output": [
+            {
+                "id":"Carbon",
+                "mass":"233.33"
+            }
+        ]
+    },
+    {
+        "input": [
+            {
+                "id":"IgneousRock",
+                "mass":"233.33"
+            }
+        ],
+        "output": [
+            {
+                "id":"Carbon",
+                "mass":"116.67"
+            }
+        ]
+    },
+    {
+        "input": [
+            {
+                "id":"SedimentaryRock",
+                "mass":"233.33"
+            }
+        ],
+        "output": [
+            {
+                "id":"Carbon",
+                "mass":"116.67"
+            }
+        ]
+    },
+    {
+        "input": [
+            {
+                "id":"Obsidian",
+                "mass":"233.33"
+            }
+        ],
+        "output": [
+            {
+                "id":"Carbon",
+                "mass":"116.67"
+            }
+        ]
+    },
+    {
+        "input": [
+            {
+                "id":"Granite",
+                "mass":"233.33"
+            }
+        ],
+        "output": [
+            {
+                "id":"Carbon",
+                "mass":"116.67"
+            }
+        ]
+    },
+    {
+        "input": [
+            {
+                "id":"SandStone",
+                "mass":"233.33"
+            }
+        ],
+        "output": [
+            {
+                "id":"Carbon",
+                "mass":"116.67"
+            }
+        ]
+    },
+    {
+        "input": [
+            {
+                "id":"Clay",
+                "mass":"233.33"
+            }
+        ],
+        "output": [
+            {
+                "id":"Carbon",
+                "mass":"116.67"
+            }
+        ]
+    },
+    {
+        "input": [
+            {
+                "id":"Sand",
+                "mass":"233.33"
+            }
+        ],
+        "output": [
+            {
+                "id":"Carbon",
+                "mass":"116.67"
+            }
+        ]
+    },
+    {
+        "input": [
+            {
+                "id":"CarbonDioxide",
+                "mass":"33.33"
+            }
+        ],
+        "output": [
+            {
+                "id":"CrudeOil",
+                "mass":"16.67"
+            }
+        ]
+    },
+    {
+        "input": [
+            {
+                "id":"CarbonDioxide",
+                "mass":"33.33"
+            }
+        ],
+        "output": [
+            {
+                "id":"Petroleum",
+                "mass":"16.67"
+            }
+        ]
+    },
+    {
+        "input": [
+            {
+                "id":"Algae",
+                "mass":"233.33"
+            }
+        ],
+        "output": [
+            {
+                "id":"ToxicSand",
+                "mass":"116.67"
+            }
+        ]
+    },
+    {
+        "input": [
+            {
+                "id":"DirtyWater",
+                "mass":"200"
+            }
+        ],
+        "output": [
+            {
+                "id":"Water",
+                "mass":"200"
+            }
+        ]
+    },
+    {
+        "input": [
+            {
+                "id":"Oxygen",
+                "mass":"83.33"
+            }
+        ],
+        "output": [
+            {
+                "id":"OxyRock",
+                "mass":"79.17"
+            }
+        ]
+    },
+    {
+        "input": [
+            {
+                "id":"ContaminatedOxygen",
+                "mass":"83.33"
+            }
+        ],
+        "output": [
+            {
+                "id":"SlimeMold",
+                "mass":"79.17"
+            }
+        ]
+    },
+    {
+        "input": [
+            {
+                "id":"ChlorineGas",
+                "mass":"50"
+            }
+        ],
+        "output": [
+            {
+                "id":"BleachStone",
+                "mass":"47.5"
+            }
+        ]
+    },
+    {
+        "input": [
+            {
+                "id":"",
+                "mass":""
+            }
+        ],
+        "output": [
+            {
+                "id":"",
+                "mass":""
+            }
+        ]
+    },
+    {
+        "input": [
+            {
+                "id":"",
+                "mass":""
+            }
+        ],
+        "output": [
+            {
+                "id":"",
+                "mass":""
+            }
+        ]
+    },
+    {
+        "input": [
+            {
+                "id":"",
+                "mass":""
+            }
+        ],
+        "output": [
+            {
+                "id":"",
+                "mass":""
+            }
+        ]
+    },
+    {
+        "input": [
+            {
+                "id":"",
+                "mass":""
+            }
+        ],
+        "output": [
+            {
+                "id":"",
+                "mass":""
+            }
+        ]
+    },
+    {
+        "input": [
+            {
+                "id":"",
+                "mass":""
+            }
+        ],
+        "output": [
+            {
+                "id":"",
+                "mass":""
+            }
+        ]
+    }
+    
+]
