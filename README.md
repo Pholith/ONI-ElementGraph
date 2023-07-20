@@ -6,7 +6,7 @@ This graph show every matter change in the game.
 ## Legend
 - Red arrows show heat-induced element change.
 - Blue arrows show cold-induced element change.
-- Green arrows show element change by factory or mobs. (WARNING, Grey arrows are not exaustives)
+- Grey arrows show element change by factory or mobs. (WARNING, Grey arrows are not exaustives)
 
 ## Image
 
